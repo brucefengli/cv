@@ -7,7 +7,7 @@ cv-lesson-1-example.ipynb
    Your code need to be completed in Python/C++ in .py or .cpp file with comments and readme file to indicate how to use.
 answer:
 https://github.com/brucefengli/cv/tree/master/lesson-1
-cv-lesson-1-example.ipynb
+cv-lesson-1-image augumentation.ipynb
    
    
 3. Do think about your own interests very carefully and choose your topic within 3 weeks.
